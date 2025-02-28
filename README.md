@@ -1,2 +1,2 @@
 # Advanced-Excel
-Learning and implication of Advanced Excel
+This is a self-learning documentation of Advanced Excel
